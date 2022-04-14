@@ -1,3 +1,7 @@
+""" This scripts counts the number of lines in standard input.
+Input: strind from the systems standard input
+"""
+
 import sys
 
 count = 0
